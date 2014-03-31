@@ -1,0 +1,29 @@
+firm:
+  public:
+    controller: 'public'
+    views:      'trds'
+    layout:     'trds'
+    page:
+      title:        'Trading Company Ltd.'
+      header:       'Trading motto'
+      footer_text:  '&copy; 2005-2014 Trading Company Ltd.'
+      footer_title: 'Ferenc-Loránt Kiss'
+  system:
+    page:
+      title:        'TrustSys - Wstm'
+      header:       'TrustSys trds'
+      footer_text:  '&copy; 2005-2014 kfl62'
+      footer_title: 'Ferenc-Loránt Kiss'
+
+  sass_dir:     'system/assets/stylesheets/trds'
+  css_dir:      'public/stylesheets/trds'
+  images_dir:   'public/images/trds'
+  css_path:     '/stylesheets/trds'
+  images_path:  '/images/trds'
+  i18n_path:    'trds'
+  js_path:      'trds'
+
+  models_path:  [trst, trds]
+  db_devel:     'trst_trds'
+  db_test:      'trst_test'
+  db_prod:      'trst_trds'
