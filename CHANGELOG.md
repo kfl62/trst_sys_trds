@@ -2,6 +2,16 @@
 
 release date: **2014-XX-XX**
 
+* **feature v0.1.3**, `Trds::PartnerFirm` CRUD
+   - feature date: **2014-04-02**
+   - bump version v0.1.3
+   - update CHANGELOG
+   - views `Trds::PartnerFirm` and related (address, person etc.) CRUD
+   - i18n `trds.yml` skeleton, `partner_firm.yml`
+   - assets js, `Trds.desk.partner_firm` skeleton
+   - assets js, `Trds` main module and helpers
+   - cleanup (.gitignore)
+
 * **feature v0.1.2**, mongoid models, base
    - feature date: **2014-04-02**
    - bump version v0.1.2
