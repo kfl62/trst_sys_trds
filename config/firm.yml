@@ -1,8 +1,8 @@
 firm:
   public:
-    controller: 'public'
-    views:      'trds'
-    layout:     'trds'
+    controller:     'public'
+    views:          'trst'
+    layout:         'layout'
     page:
       title:        'Trading Company Ltd.'
       header:       'Trading motto'
@@ -15,10 +15,11 @@ firm:
       footer_text:  '&copy; 2005-2014 kfl62'
       footer_title: 'Ferenc-Loránt Kiss'
 
-  sass_dir:     'system/assets/stylesheets/trds'
-  css_dir:      'public/stylesheets/trds'
+  sass_dir:     'system/assets/stylesheets'
+  css_dir:      'public/stylesheets'
+  css_path:     '/stylesheets'
+  css_file:     'trds.css'
   images_dir:   'public/images/trds'
-  css_path:     '/stylesheets/trds'
   images_path:  '/images/trds'
   i18n_path:    'trds'
   js_path:      'trds'
