@@ -1,6 +1,8 @@
 ## v0.3.0
 
-release date: **2014-XX-XX**
+* release date: **2014-09-16**
+   - bump version v0.3.0
+   - update CHANGELOG
 
 
 * **feature v0.2.992**, v0.3.0 preparation

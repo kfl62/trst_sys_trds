@@ -1,4 +1,4 @@
 # encoding: utf-8
 module Trds
-  VERSION = "0.2.992"
+  VERSION = "0.3.0"
 end
