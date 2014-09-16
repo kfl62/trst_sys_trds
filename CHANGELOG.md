@@ -3,6 +3,16 @@
 release date: **2014-XX-XX**
 
 
+* **feature v0.2.992**, v0.3.0 preparation
+   - feature date: **2014-09-16**
+   - bump version v0.2.992
+   - update CHANGELOG
+   - i18n `partner_firms` update
+   - views `Trds::PartnerFirm` CRUD
+   - models generic skeletons, update
+   - assets js, update
+
+
 * **feature v0.2.991**, v0.3.0 preparation, close [issue #1][#1]
    - feature date: **2014-08-20**
    - bump version v0.2.991
