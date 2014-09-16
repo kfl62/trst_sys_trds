@@ -51,6 +51,14 @@ ro:
           Viziona/Edita/Şterge folosiţi butoanele din dreapta!
         tab_units_create: |
           Ptr. a crea o &raquo;Unitate&laquo; apăsaţi butonul din dreapta!
+        tab_banks_title: Conturi bancare
+        tab_banks_not_exists: |
+          Partener (Firmă) nu are cont bancar definit!
+        tab_banks_exists: |
+          Mai jos aveţi Conturile asociate Partenerului (Firmă), pentru a le <br>
+          Viziona/Edita/Şterge folosiţi butoanele din dreapta!
+        tab_banks_create: |
+          Ptr. a crea o &raquo;Cont bancar&laquo; apăsaţi butonul din dreapta!
         table_header_grn: ['Material', 'UM', 'PU', 'Cant.', 'Valoare', 'TVA', 'Total']
         table_header_inv: ['Material', 'UM', 'PU<br>Cump.', 'Cantitate', 'Valoare<br>Cump.', 'PU<br>Vânz.', 'Valoare<br>Vânz.', 'TVA', 'Total']
         <<: *trst_firm
